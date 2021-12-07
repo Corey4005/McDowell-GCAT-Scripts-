@@ -3,7 +3,7 @@ Scripts developed in this repository will be used with [Jonathan Mcdowels Genera
 
 # First Analysis 12/7/2021 
 * [Link to Jupyter Notebook](https://github.com/Corey4005/McDowell-GCAT-Scripts-/blob/main/Analysis_1.ipynb)
-* Question - How many sattelite launches have been owned by the Central Intelligence Agency (CIA) as reported by GCAT throughout time? 
+* Question - How many satellite launches have been owned by the Central Intelligence Agency (CIA) as reported by GCAT throughout time? 
 * Data - Main catalogs satcat (Standard) TSV file
 
 #Update log
