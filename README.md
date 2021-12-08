@@ -67,7 +67,7 @@ data = '.\data\satcat.csv'
 DF = pd.read_csv(data, low_memory=False)
 SAT = COUNT_SAT_BY_OWNER(DF, 'GSFC')
 ```
-RETURNS [plot]()
+RETURNS [plot](https://github.com/Corey4005/McDowell-GCAT-Scripts-/blob/main/repo-images/GSFC_SATS.png)
 
 ## Task List
 * [x] initialized repo
