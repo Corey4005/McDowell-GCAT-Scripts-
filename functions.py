@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 #filepath for test
 data = '.\data\satcat.csv'
-DF = pd.read_csv(data)
+DF = pd.read_csv(data, low_memory=False)
 
 def COUNT_SAT_BY_OWNER(df, owner):
     """
