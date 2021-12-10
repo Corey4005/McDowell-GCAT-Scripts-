@@ -7,6 +7,6 @@ Scripts developed in this repository will be used with [Jonathan Mcdowels Genera
 * Data - Main catalogs satcat (Standard) TSV file can be downloaded [here](https://planet4589.org/space/gcat/tsv/cat/satcat.tsv)
 
 ## Task List
-* [x] initialized repo
 * [x] finished SAT_COUNT_FUNCTION
+* [x] finished documentations filepath for repo
 * [ ] update SAT_COUNT_FUNCTION to add multiple owners when you would like to pass a list instead of string. 
